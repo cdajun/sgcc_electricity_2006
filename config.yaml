@@ -1,8 +1,8 @@
 name: "SGCC Electricity"
-version: "v1.6.8-test2"
-slug: "sgcc_electricity"
+version: "v1.6.8-test3"
+slug: "sgcc_electricity_2026"
 description: "获取国网电费数据的插件"
-url: "https://github.com/ARC-MX/sgcc_electricity_new"
+url: "https://github.com/cdajun/sgcc_electricity_2026"
 arch:
   - aarch64
   - amd64
